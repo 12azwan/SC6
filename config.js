@@ -4,14 +4,14 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 815-1148-0762', 'YahyaGanzz'],
-  ['+62 815-1148-0762'],
-  ['+62 815-1148-0762']
+  ['+372 5328-9813', 'azwanGanzz'],
+  ['+372 5328-9813'],
+  ['+62 882-1521-4602']
 ]
 
 
 
- // ['6285822347348', '6285822347348', '6285822347348']
+ // ['6288212514602', '6288212514602', '37253289813']
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
@@ -57,7 +57,7 @@ global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'AzzBot-MD'
+global.me = 'AzwanBot-MD'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
